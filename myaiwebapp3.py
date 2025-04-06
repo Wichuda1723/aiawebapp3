@@ -4,6 +4,7 @@ import cv2
 from stability_ai import text2image
 
 api_key = "AIzaSyCbrSrTKd8Y_FY6dDLbZfJ70vtbslEv004"
+api_key = "sk-4zPm7QwhgCGTnEn3dP3kt4mKAtxyRDNfMYinErrElr7f5Rrq"
 engine_id = "stable-diffusion-v1-6"
 filename_save = "image_out.jpg"
 
