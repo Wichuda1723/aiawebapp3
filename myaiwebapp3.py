@@ -3,7 +3,7 @@ import GT
 import cv2
 from stability_ai import text2image
 
-api_key = "AIzaSyCMhLs7vX1h9laRoJDvIwj0_WiwoATwsIM"
+api_key = "AIzaSyCbrSrTKd8Y_FY6dDLbZfJ70vtbslEv004"
 engine_id = "stable-diffusion-v1-6"
 filename_save = "image_out.jpg"
 
